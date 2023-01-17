@@ -2,3 +2,5 @@ WPU RESOLUSI
 - belajar menjadi backend developer otodidiak
 - python
 - github
+- mysql
+- sampe paham ke tiga yang ada di atas
